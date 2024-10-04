@@ -1,9 +1,8 @@
 import React from 'react'
-import './header.css'
 
 export default function () {
   return (
-    <header>
+    <header className='large'>
         John Harvard
     </header>
   )
